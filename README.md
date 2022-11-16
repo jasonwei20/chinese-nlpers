@@ -1,8 +1,8 @@
 # chinese-nlpers
 
 Output:
-- Total unique authors in ACL 2022: 5367
-- Total unique Chinese authors in ACL 2022: 2175
+- Total unique authors in ACL 2022: 5,367
+- Total unique Chinese authors in ACL 2022: 2,175
 - Percent Chinese authors in ACL 2022: 40.5
 
 Data from 
